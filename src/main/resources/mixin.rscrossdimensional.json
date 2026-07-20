@@ -1,0 +1,7 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.rscrossdimensional.mixin",
+  "mixins": [
+    "MixinNetworkNodeNetworkTransmitter"
+  ]
+}

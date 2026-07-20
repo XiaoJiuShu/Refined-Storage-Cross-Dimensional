@@ -1,9 +1,9 @@
 [
 {
-  "modid": "rs cross latitude",
-  "name": "RS Cross Latitude",
+  "modid": "rs cross dimensional",
+  "name": "RS Cross Dimensional",
   "description": "None.",
-  "version": "1.0",
+  "version": "1.1",
   "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
