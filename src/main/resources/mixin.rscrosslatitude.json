@@ -1,0 +1,7 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.rscrosslatitude.mixin",
+  "mixins": [
+    "MixinNetworkNodeNetworkTransmitter"
+  ]
+}

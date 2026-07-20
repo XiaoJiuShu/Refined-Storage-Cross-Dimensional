@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rs cross latitude",
+  "name": "RS Cross Latitude",
+  "description": "None.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ImZhizi", "Xiao_Jiu_Shu"],
+  "credits": "None.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
