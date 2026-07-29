@@ -5,4 +5,4 @@
 # This mod has been authorized for download on the Modrinth, CurseForge, and MCMod mod portals.
  - Modrinth link: https://modrinth.com/mod/refined-storage-cross-dimensional
  - CurseForge link: https://www.curseforge.com/minecraft/mc-mods/refined-storage-cross-dimensional
- - mcmod address: https://www.mcmod.cn/class/28876.html
+ - Mcmod link: https://www.mcmod.cn/class/28876.html
